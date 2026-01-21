@@ -1,0 +1,8 @@
+{
+  "anthropic_api_key": "YOUR_API_KEY_HERE",
+  "smart_mode": {
+    "model": "claude-sonnet-4-20250514",
+    "verbatim_recent_messages": 30,
+    "max_output_tokens": 4096
+  }
+}
